@@ -1,0 +1,28 @@
+
+table,td{
+  border: 5px solid black;
+}
+
+td{
+  width:100px;
+  height:100px;
+  text-align: center;
+  background-color:blue;
+}
+
+.container, #gridTable{
+  margin:auto;
+  text-align: center;
+}
+
+#restart{
+  margin-top: 10px;
+}
+
+header{
+  margin-top: 50px;
+  text-align:center;
+  margin-bottom:30px;
+  font-size: 4rem;;
+
+}
